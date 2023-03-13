@@ -3,7 +3,7 @@
 This project was created during the Javascript Expert Week 7.0
 
 ## Preview
-<img width=100% src="./initial-template/assets/demo-template-lg.gif">
+<img width=100% src="./initial-template/assets/hand_gestures_streaming.gif">
 
 ## Pre-reqs
 - Node.js v19.6
