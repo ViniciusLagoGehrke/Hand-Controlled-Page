@@ -1197,3 +1197,10 @@ a {
     /* fica à frente dos elementos */
     z-index: 20;
 }
+
+#mirror {
+    position: fixed;
+    left: 10px;
+    top: 50px;
+    transform: rotateY(180deg);
+}

@@ -25,6 +25,7 @@ export default class Camera {
     // debug reasons!
     // camera.video.height = 240
     // camera.video.width = 320
+    // camera.video.id = "mirror"
     // document.body.append(camera.video)
 
     // aguarda pela camera!
